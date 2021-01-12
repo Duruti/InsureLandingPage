@@ -120,6 +120,7 @@ header{
    text-align: center;
    border: solid 1px white; 
    padding: 10px 15px;
+   cursor: pointer;
 }
 
 .right{
@@ -170,7 +171,7 @@ header{
    position: relative;
 }
 .cadre h1{
-   width: 50%;
+   width: 54%;
    font-weight: 400;
    font-size: 50px;
    color: white;
@@ -220,13 +221,13 @@ footer{
 }
 .lien{
    margin-top: 40px;
-   margin-right: 200px;
+   margin-right: 130px;
    display: flex;
    flex-direction: column;
 }
 .lien a{
    z-index: 2;
-   font-size: 20px;
+   font-size: 16px;
    color: hsl(0, 0%, 24%);
    margin: 5px;
 }
